@@ -1,0 +1,3 @@
+print("hello world")
+data="pythan foundation"
+print(data)
