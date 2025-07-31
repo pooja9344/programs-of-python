@@ -1,0 +1,3 @@
+shopping_list=["tea power","cofee powder","milk","rice","soapsfor"]
+for i in shopping_list:
+    print(i)
